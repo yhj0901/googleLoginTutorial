@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183153159102",
+    "project_id": "logintutorial-ac998",
+    "storage_bucket": "logintutorial-ac998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183153159102:android:199d899195e45528bca7ef",
+        "android_client_info": {
+          "package_name": "com.yangheejune.googlelogintutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183153159102-ts91miu484di5rh9pakdrrq87vic8noj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwosw1r4avdOLSAWGtUXItSuFQ0Tw4uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183153159102-ts91miu484di5rh9pakdrrq87vic8noj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

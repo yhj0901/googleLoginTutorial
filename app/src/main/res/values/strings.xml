@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">googleLoginTutorial</string>
+    <string name="web_client_id"></string>
+</resources>
